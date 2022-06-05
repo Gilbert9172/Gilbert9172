@@ -1,5 +1,8 @@
 ### Hi there 👋👋😀
 
+> Java - Spring Boot
+
+> Python - Django, Flask
 <!--
 **Gilbert9172/Gilbert9172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

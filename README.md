@@ -1,14 +1,11 @@
 ### Hi there 👋👋😀
 
-> Java - Spring Boot
-
-> Python - Django, Flask
-
-> Node.js - Express
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>
 
 [![Gilbert's github stats](https://github-readme-stats.vercel.app/api?username=Gilbert9172)](https://github.com/gilbert9172/github-readme-stats)
 
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=Java&logoColor=Black"/>
+
+
 
 
 <!--

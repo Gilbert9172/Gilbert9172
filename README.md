@@ -8,7 +8,7 @@
 
 ***Tools***
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/Spring Security-008080?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/JPA-B8860B?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-8B0000?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>   
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/Spring Security-008080?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/JPA-B8860B?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-8B0000?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/ThymeLeaf-6B8E23?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>   
 
 ---
 
